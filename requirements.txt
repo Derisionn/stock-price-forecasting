@@ -8,3 +8,4 @@ statsmodels
 plotly
 ta
 pandas_ta
+setuptools
