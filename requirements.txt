@@ -10,3 +10,5 @@ plotly
 ta
 pandas_ta
 setuptools
+pages/utils/__init__.py
+pages/utils/plotly_figures.py
