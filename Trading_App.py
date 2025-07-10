@@ -1,5 +1,6 @@
 
 import platform
+import streamlit as st 
 st.write("Python version:", platform.python_version())
 import streamlit as st
 
