@@ -7,5 +7,5 @@ matplotlib
 statsmodels
 plotly
 ta
-pandas_ta
+
 
